@@ -32,13 +32,13 @@ export default GameScreen;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    padding: 10,
+    padding: 20,
     alignItems: "center",
   },
   buttonContainer: {
     flexDirection: "row",
     justifyContent: "space-between",
-    marginTop: 20,
-    width: "80%",
+    marginTop: 50,
+    width: "56%",
   },
 });

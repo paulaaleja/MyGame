@@ -39,8 +39,8 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   imageContainer: {
-    height: 320,
-    width: 320,
-    marginTop: 50,
+    height: 160,
+    width: 160,
+    marginTop: 100,
   },
 });
